@@ -1,17 +1,23 @@
-# University of Sussex | BSc Zoology Code Portfolio
+# Zoology Data Portfolio
 
-Welcome to my undergraduate data repository. This space documents my statistical workflows, data cleaning pipelines, and spatial mapping projects developed during my studies at the University of Sussex.
+Welcome to my technical portfolio. This repository documents my statistical workflows, spatial analysis, and ecological modelling, developed through both my studies at the University of Sussex and independent professional development. 
 
-## 🧬 Current Projects
+## Spatial & GIS Projects
 
-### 🐠 1. Fish Behavioural Analysis (`Year1_Fish_Behaviour_Analysis.R`)
+### 1. Cusuco National Park Mapping
+* **Focus**: Spatial cartography and data visualisation.
+* **Methodology**: Executed using QGIS to map biodiversity survey zones, appliying professional map elements including scale bars, north arrows and coordinate systems.
+* * **Note**: Completed as part of an independent GIS certification (Operation Wallacea).
+ 
+## Statistical & R Workflows
+
+### 1. Fish Behavioural Analysis (`Year1_Fish_Behaviour_Analysis.R`)
 * **Focus**: Behavioural Ecology & Laboratory Modeling
-* **Methodology**: Applied linear modeling (`lm`) to evaluate behavioural responses based on experimental variables. 
-* **Note**: Code structures are preserved for portfolio review; original raw datasets are detached.
+* **Methodology**: Applied linear modeling to evaluate behavioural responses based on experimental variables. 
 
-### 🪨 2. Intertidal Species Abundance (`Year1_Anemone_Abundance_Analysis.R`)
+### 2. Intertidal Species Abundance (`Year1_Anemone_Abundance_Analysis.R`)
 * **Focus**: Field Ecology & Primary Research
 * **Methodology**: Executed Spearman's Rank Correlation Coefficient to test non-parametric relationships and generated customized data plots evaluating habitat volume against species abundance.
 
 ---
-*Skills Focus: RStudio, QGIS (In-Progress), Spatial Data Visualization, Statistical Modeling.*
+*Skills Focus: R & RStudio, QGIS, Spatial Data Visualization & Coordinate Referencing, Programming & Statistical Modeling.*

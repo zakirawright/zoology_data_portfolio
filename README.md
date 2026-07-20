@@ -4,7 +4,7 @@ Welcome to my technical portfolio. This repository documents my statistical work
 
 ## Spatial & GIS Projects
 
-### 1. Cusuco National Park Mapping
+### 1. Cusuco National Park Mapping (`Cusuco location.png`)
 * **Focus**: Spatial cartography and data visualisation.
 * **Methodology**: Executed using QGIS to map biodiversity survey zones, appliying professional map elements including scale bars, north arrows and coordinate systems.
 * * **Note**: Completed as part of an independent GIS certification (Operation Wallacea).

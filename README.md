@@ -4,9 +4,16 @@ Welcome to my technical portfolio. This repository documents my statistical work
 
 ## Spatial & GIS Projects
 
-### 1. Cusuco National Park Mapping (`Cusuco location.png`)
-* **Focus**: Spatial cartography and data visualisation.
-* **Methodology**: Executed using QGIS to map biodiversity survey zones, applying professional map elements including scale bars, north arrows and coordinate systems.
+### 1. Cusuco National Park Location & Context Map (`Cusuco_Location.png`)
+* **Overview:** Created a multi-scale regional context and site map displaying expedition camp locations within Cusuco National Park, Honduras.
+* **Base Maps & Layers:** Integrated OpenStreetMap Standard tiles using QuickMapServices alongside custom vector layers for national boundaries, regional context, park zones, and expedition camps.
+* **Cartographic Design:** Applied distinct symbology and labelling for camps and boundaries, complete with a structured map legend, scale bars, and north arrows across multi-scale layout frames.
+* **Note**: Completed as part of an independent GIS certification (Operation Wallacea).
+
+### Cusuco National Park Elevation & Topography Map (`Cusuco_Elevation_Map`)
+* **Overview:** Created a detailed topographic map layout visualizing terrain variation and field camp locations across Cusuco National Park and its Core Zone.
+* **Raster & Elevation Data:** Processed elevation raster data and extracted contour lines to map relief shading and slope variations ranging from 120m to 2250m.
+* **Cartographic Design:** Applied custom text styling and text buffering for clear elevation contour labels, alongside custom symbology for park boundaries, core zones, and expedition camp markers.
 * **Note**: Completed as part of an independent GIS certification (Operation Wallacea).
  
 ## Statistical & R Workflows

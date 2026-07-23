@@ -10,10 +10,17 @@ Welcome to my technical portfolio. This repository documents my statistical work
 * **Cartographic Design:** Applied distinct symbology and labelling for camps and boundaries, complete with a structured map legend, scale bars, and north arrows across multi-scale layout frames.
 * **Note**: Completed as part of an independent GIS certification (Operation Wallacea).
 
-### Cusuco National Park Elevation & Topography Map (`Cusuco_Elevation_Map.png`)
+### 2. Cusuco National Park Elevation & Topography Map (`Cusuco_Elevation_Map.png`)
 * **Overview:** Created a detailed topographic map layout visualizing terrain variation and field camp locations across Cusuco National Park and its Core Zone.
 * **Raster & Elevation Data:** Processed elevation raster data and extracted contour lines to map relief shading and slope variations ranging from 120m to 2250m.
 * **Cartographic Design:** Applied custom text styling and text buffering for clear elevation contour labels, alongside custom symbology for park boundaries, core zones, and expedition camp markers.
+* **Note**: Completed as part of an independent GIS certification (Operation Wallacea).
+
+### 3. Rivers of Cusuco National Park & Basins of Honduras (`Honduras_Cusuco_Rivers.png`)
+* **Overview:** Created a comprehensive hydrological map layout mapping national-scale river basins alongside a detailed local zoom of Cusuco National Park.
+* **Raster & Terrain Analysis:** Processed Digital Elevation Models (DEM) to generate 3D textured hillshades and applied colored topography for realistic relief styling across the park.
+* **Vector & Hydrological Processing:** Clipped spatial layers to study boundaries and integrated global river hydrography data (Lehner & Grill, 2013). 
+* **Cartographic Design:** Applied Strahler stream order classifications, styled river widths dynamically using the assistant tool, and incorporated distinct symbology for park boundaries, national borders, and expedition camps.
 * **Note**: Completed as part of an independent GIS certification (Operation Wallacea).
  
 ## Statistical & R Workflows

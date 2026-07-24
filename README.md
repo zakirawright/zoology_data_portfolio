@@ -22,6 +22,12 @@ Welcome to my technical portfolio. This repository documents my statistical work
 * **Vector & Hydrological Processing:** Clipped spatial layers to study boundaries and integrated global river hydrography network data.
 * **Cartographic Design:** Applied Strahler stream order classifications, styled river widths dynamically using the assistant tool, and incorporated clear symbology for park boundaries, national borders, and expedition camps.
 * **Note**: Completed as part of an independent GIS certification (Operation Wallacea).
+
+### 4. Cusuco National Park Monthly Bird Distribution Map (`Cusuco_Monthly_Comparison.png`)
+* **Overview:** Created a multi-panel temporal comparative map layout visualizing the monthly distribution and abundance of the bird genus Zentrygon across Cusuco National Park during the 2019 expedition months.
+* **Data Processing & Spatial Analysis:** Performed data cleaning and data aggregation on spatial field datasets, and conducted temporal analysis to track changes across June, July, and August.
+* **Cartographic Design:** Applied proportional symbology for bird counts alongside distinct vector layers for transects, expedition camps, core zones, and park boundaries, incorporating an overview inset locator map.
+* **Note:** Completed as part of an independent GIS certification (Operation Wallacea).
  
 ## Statistical & R Workflows
 
